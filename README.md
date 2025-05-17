@@ -40,7 +40,7 @@ This Telegram bot helps manage stock and sales records by interacting with Googl
 `python telBot.py`
 The bot should now be running and ready to manage stock and sales.
 
-### 6. Usage
+### 6. Usage : On your telegram app, open your bot and use the commands below to interact with your bot
 - `/start` **: Start the bot and get a welcome message.**
 - `/help` **: Get a list of available commands.**
 - `/addstock <item> <quantity> <price>` **: Add a stock entry.**
